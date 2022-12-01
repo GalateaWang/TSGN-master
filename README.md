@@ -18,6 +18,7 @@ Due to the decentralized and public nature of the Blockchain ecosystem, the mali
 ## Usage
 
 Execute the following bash commands in the same directory where the code resides:
+
 '''
 python SGN.py  # obtain the TSGNs
 python baseline.py  # excute the corresponding basline algorithm for obtaining the transaction ego network embeddings 
