@@ -1,6 +1,5 @@
 # TSGN-master   
-
-[![github](https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg)](https://github.com/snowdreams1006)
+[![github](https://img.shields.io/badge/github-GalateaWang-brightgreen.svg)](https://github.com/snowdreams1006)
 ![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId?style=social)
 ![Mozilla Add-on](https://img.shields.io/amo/dw/:addonId)
 
