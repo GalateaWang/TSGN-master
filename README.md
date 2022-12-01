@@ -1,4 +1,4 @@
-# TSGN-master        ![github](https://img.shields.io/badge/github-GalateaWang-brightgreen.svg) ![Github stars](https://img.shields.io/github/stars/GalateaWang/TSGN-master.svg) ![Mozilla Add-on](https://img.shields.io/amo/dw/:addonId) ![thanks author](https://img.shields.io/badge/github-PengtaoChen-green.svg)
+# TSGN-master        ![github](https://img.shields.io/badge/github-GalateaWang-brightgreen.svg) ![Github stars](https://img.shields.io/github/stars/GalateaWang/TSGN-master.svg) ![Mozilla Add-on](https://img.shields.io/amo/dw/:addonId) ![thanks author](https://img.shields.io/badge/thanksauthor-PengtaoChen-green.svg)
 
 For the paper "TSGN: Trandaction Subgraph Networks Assisting Phishing Detection in Ethereum" [Arxiv Link](https://arxiv.org/pdf/2208.12938.pdf)
 
