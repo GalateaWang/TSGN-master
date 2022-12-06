@@ -1,4 +1,4 @@
-# TSGN-master        ![github](https://img.shields.io/badge/github-GalateaWang-brightgreen.svg) ![Github stars](https://img.shields.io/github/stars/GalateaWang/TSGN-master.svg) ![Mozilla Add-on](https://img.shields.io/amo/dw/:addonId) ![thanks author](https://img.shields.io/badge/thanksauthor-PengtaoChen-green.svg)
+# TSGN-master        ![github](https://img.shields.io/badge/github-GalateaWang-brightgreen.svg) ![Github stars](https://img.shields.io/github/stars/GalateaWang/TSGN-master.svg) ![Mozilla Add-on](https://img.shields.io/amo/dw/:addonId) ![thanks author](https://img.shields.io/badge/thanksauthor-PengtaoChen-green.svg) ![github](https://img.shields.io/twitter/url?style=social&url=galateawang）![python](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
 
 For the paper "TSGN: Trandaction Subgraph Networks Assisting Phishing Detection in Ethereum" [Arxiv Link](https://arxiv.org/pdf/2208.12938.pdf)
 
@@ -9,19 +9,22 @@ Due to the decentralized and public nature of the Blockchain ecosystem, the mali
 - python--3.9.0
 - pytorch--1.12.0
 - gensim--3.8.0
-- pandas
-- numpy
-- tqdm
-- pickle
-- networkx
-- scikit-learn
+- pandas--1.4.3
+- numpy--1.22.0
+- tqdm--4.64.0
+- pickle--4.0.0
+- networkx--2.8.5
+- scikit-learn--1.0.2
 
 ## Usage
 
 Execute the following commands in the same directory where the code resides:
 
+
+
 ```python
 python SGN.py  # obtain the TSGNs
+cd baseline_path  # go to the baseline path
 python baseline.py  # excute the corresponding baseline algorithm for obtaining the transaction ego network embeddings 
 python baseline-classification.py  # phishing account identification
 ```
