@@ -25,7 +25,7 @@ Execute the following commands in the same directory where the code resides:
 
 ```python
 python SGN.py  # obtain the TSGNs
-cd baseline_path  # go to the baseline path
+cd baseline_path  # go to the baseline path, i.e., Deepkernel, Diffpool, U2GNN, Graph2vec, or Handcraft
 python baseline.py  # excute the corresponding baseline algorithm for obtaining the transaction ego network embeddings 
 python baseline-classification.py  # phishing account identification
 ```
